@@ -1,0 +1,32 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "The Witcher 3 - My Way",
+    "description": "Vanilla Plus style overhaul for TW3",
+    "author": "jdsmith2816",
+    "maintainers": ["github/jdsmith2816"],
+    "game": "Witcher3",
+    "tags": [],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/jdsmith2816/tw3mw/main/extra/hero.png",
+      "readme": "https://github.com/jdsmith2816/tw3mw/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/TW3%20-%20My%20Way.wabbajack_6825a0ff-c96b-49ea-8ac6-94112496645a",
+      "machineURL": "tw3mw",
+      "discordURL": "https://discord.gg/C3hXtbHd"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "I9/7OytMk2Q=",
+      "Size": 19275412,
+      "NumberOfArchives": 998,
+      "SizeOfArchives": 76952503127,
+      "NumberOfInstalledFiles": 8735,
+      "SizeOfInstalledFiles": 77922340855
+    },
+    "version": "1.0.0"
+  }
+]
