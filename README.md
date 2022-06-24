@@ -167,6 +167,14 @@ I think I found a bug! Here are some things that are not bugs:
 
 - Thanks! [Create an issue]() so that it can be tracked.
 
+How do I fiddle with the reshade preset?
+
+- PgUp toggles the reshade settings panel. If you want to mess with the shader settings then make sure to uncheck the checkbox at the bottom right. You'll then see the customization options.
+
+What reshade options ship with the modlist?
+
+- The modlist ships with GrooteS enabled by default but also comes with Ferocious in the 'Benis' folder. You can swap between them in-game in the normal way.
+
 # Performance
 
 My Setup:
