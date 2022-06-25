@@ -14,19 +14,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/jdsmith2816/tw3mw/main/extra/hero.png",
       "readme": "https://github.com/jdsmith2816/tw3mw/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/TW3%20-%20My%20Way.wabbajack_6825a0ff-c96b-49ea-8ac6-94112496645a",
+      "download": "https://authored-files.wabbajack.org/TW3%20-%20My%20Way%20v1.0.2.wabbajack_74827054-a572-4406-ab7a-0f41031e9e94",
       "machineURL": "tw3mw",
       "discordURL": "https://discord.gg/C3hXtbHd"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "I9/7OytMk2Q=",
-      "Size": 19275412,
-      "NumberOfArchives": 998,
-      "SizeOfArchives": 76952503127,
-      "NumberOfInstalledFiles": 8735,
-      "SizeOfInstalledFiles": 77922340855
+      "Hash": "YDs18bfzf08=",
+      "Size": 16344501,
+      "NumberOfArchives": 1000,
+      "SizeOfArchives": 76952723129,
+      "NumberOfInstalledFiles": 8751,
+      "SizeOfInstalledFiles": 77922931873
     },
-    "version": "1.0.0"
+    "version": "1.0.1"
   }
 ]

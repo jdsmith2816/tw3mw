@@ -1,5 +1,21 @@
 # Changelog
 
+## v1.0.1
+
+### Added
+
+-
+
+### Changed
+
+- Updated modActiveMedallion to v1.31b
+- Cleaned up the ugly/broken text in the configuration menus
+- Adjusted overlapping keyboard keybinds
+
+### Removed
+
+-
+
 ## Initial Release
 
 ### Added

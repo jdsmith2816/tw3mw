@@ -12,6 +12,7 @@
     - [Downloading and Installing](#downloading-and-installing)
     - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
+    - [Replace user.settings file](#replace-usersettings-file)
     - [Starting the Game](#starting-the-game)
 - [Updating](#updating)
 - [Gameplay Guide](#gameplay-guide)
@@ -29,9 +30,11 @@
 ![omeft-banner](extra/hero.png)
 ![build-status](https://img.shields.io/endpoint?label=Status&style=for-the-badge&url=https%3A%2F%2Fbuild.wabbajack.org%2Flists%2Fstatus%2Ftw3-mw%2Fbadge.json)
 
-This is a "Vanilla Plus" style modlist for The Witcher 3 with gameplay enhancements based on FCR3 + nearly everything from Partoutatix.
+This is a "Vanilla Plus" style modlist for The Witcher 3 with gameplay enhancements
+based on FCR3 + nearly everything from Partoutatix.
 
-The game should still feel like TW3 but a much more refined and visually improved experience.
+The game should still feel like TW3 but a much more refined and visually improved
+experience.
 
 I will not provide support on how to add or change any mods beyond what is
 already provided. Do not ask me for help if you changed things. If you do not
@@ -112,9 +115,24 @@ them. In this case just wait till I update the Modlist.
 
 **Wabbajack could not find my game folder**:
 
-Wabbajack will not work with a pirated version of the game.
+You need to have launched the game once before WJ will locate it. Additionally
+Wabbajack will not work with pirated versions of the game. Finally this modlist
+only works with the TW3 GOTY versin of the game on Steam... **_not_** GOG
 
 ## Post-Installation
+
+### Replace user.settings file
+
+Currently Wabbajack is not properly configuring the user.setings file which is what
+controls all of your in-game settings. Until Wabbajack is updated to correct
+this behavior you will need to manually replace the file with the one linked below.
+
+1. Right-click [this link](https://raw.githubusercontent.com/jdsmith2816/tw3mw/main/extra/user.settings) and choose `Save link as...`
+2. In the file browser that appears you need to navigate to `X:\MO2 - TW3MW\profiles\TW3 MW`
+3. CLICK ON user.settings in the file selection window
+4. Press Save
+5. Choose 'Yes' to replace the existing file
+6. If it did not ask you to replace the file, mistakes were made. Try again.
 
 ### Starting the Game
 
@@ -161,11 +179,11 @@ Is [insert mod name here] part of the list?
 
 Will you add x mod to the list?
 
-- Maybe? [Create a feature request]() so that it can be evaluated.
+- Maybe? [Create a feature request](https://github.com/jdsmith2816/tw3mw/issues/new?assignees=jdsmith2816&labels=request&template=feature_request.md&title=) so that it can be evaluated.
 
 I think I found a bug! Here are some things that are not bugs:
 
-- Thanks! [Create an issue]() so that it can be tracked.
+- Thanks! [Create an issue](https://github.com/jdsmith2816/tw3mw/issues/new?assignees=jdsmith2816&labels=possible+bug&template=bug_report.md&title=) so that it can be tracked.
 
 How do I fiddle with the reshade preset?
 
@@ -174,6 +192,10 @@ How do I fiddle with the reshade preset?
 What reshade options ship with the modlist?
 
 - The modlist ships with GrooteS enabled by default but also comes with Ferocious in the 'Benis' folder. You can swap between them in-game in the normal way.
+
+Why is my Free Cam zoomed in and hard to control?
+
+- Just restart the game. I have no idea why Free Cam bugs out like that periodically.
 
 # Performance
 
@@ -184,8 +206,7 @@ My Setup:
 - 32GB DDR4
 - Game and MO2 running on a m2 drive
 
-I get a consistent 55-60 fps in game. I don't provide support for making your
-fps better so please do not ask me.
+I get a consistent 60+ fps in game.
 
 # Removing the Modlist
 
