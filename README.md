@@ -234,7 +234,7 @@ Mod Authors
 
 # Contact
 
-While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking
+While I'm always available on the [Phoenix & Friends Discord](https://discord.gg/BpwXX5f), I would advise checking
 the [Issues](https://github.com/jdsmith2816/tw3-mw/issues) (open **and** closed ones) on GitHub first if you have any problems.
 
 **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS**.
