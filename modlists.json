@@ -6,7 +6,7 @@
     "author": "jdsmith2816",
     "maintainers": ["github/jdsmith2816"],
     "game": "Witcher3",
-    "tags": [],
+    "tags": ["Official"],
     "nsfw": false,
     "image_contains_title": false,
     "force_down": false,
@@ -14,19 +14,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/jdsmith2816/tw3mw/main/extra/hero.png",
       "readme": "https://github.com/jdsmith2816/tw3mw/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/TW3%20-%20My%20Way%20v1.0.2.wabbajack_74827054-a572-4406-ab7a-0f41031e9e94",
+      "download": "https://authored-files.wabbajack.org/TW3%20-%20My%20Way%20v1.0.3.wabbajack_6c1df40a-22cd-47ec-aa75-da1f0f388562",
       "machineURL": "tw3mw",
       "discordURL": "https://discord.gg/C3hXtbHd"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "YDs18bfzf08=",
-      "Size": 16344501,
-      "NumberOfArchives": 1000,
-      "SizeOfArchives": 76952723129,
-      "NumberOfInstalledFiles": 8751,
-      "SizeOfInstalledFiles": 77922931873
+      "Hash": "h3P77+WoyZU=",
+      "Size": 28708057,
+      "NumberOfArchives": 1004,
+      "SizeOfArchives": 76979773642,
+      "NumberOfInstalledFiles": 8756,
+      "SizeOfInstalledFiles": 77926160318
     },
-    "version": "1.0.1"
+    "version": "1.0.3"
   }
 ]

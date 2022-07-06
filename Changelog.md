@@ -4,11 +4,13 @@
 
 ### Added
 
--
+- mod0_HDRPKnightErrantFix which corrects missing Toussaint Knight Errant leg textures
 
 ### Changed
 
-- Updated modActiveMedallion to v1.31b
+- Updated `Active Medallion` to v1.31c
+- Updated `Brother in Arms` to v6.4.1.0
+- Updated `Grammar of the Path` to v2.7.1
 - Cleaned up the ugly/broken text in the configuration menus
 - Adjusted overlapping keyboard keybinds
 

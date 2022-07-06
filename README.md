@@ -197,6 +197,10 @@ Why is my Free Cam zoomed in and hard to control?
 
 - Just restart the game. I have no idea why Free Cam bugs out like that periodically.
 
+How can I light the braziers during the `Magic Lamp` quest?
+
+- In your menu go to `Mods > Miscellaneous > Lit` and toggle off `Disable normal interaction` until you finish.
+
 # Performance
 
 My Setup:
